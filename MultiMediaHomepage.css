@@ -1,0 +1,39 @@
+html{
+    text-align: center;
+    background-image: linear-gradient(140deg, #EADEDB 0%, #BC70A4 50%, #BFD641 75%);
+
+}
+body{
+    background-color: rgba(245, 245, 245, 0.45);
+    font-size: 35px;
+}
+body:hover{
+    opacity: 1.0;
+}
+header{
+    text-align: center;
+}
+h1{
+   font-weight: bold;
+   font-family: Garamond;
+}
+ol{
+    text-align: center;
+    list-style-position: inside;
+}
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+img{
+    margin: 50px auto 0;
+    border-style: outset;
+    border-radius: 50px;
+    border-width: 7px;
+}
+li{
+    padding: 5px 0;
+}
+div{
+    font-size: smaller;
+}
